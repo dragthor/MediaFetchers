@@ -1,3 +1,7 @@
 # MediaFetchers
 
-Easily fetch latest podcast stream.
+Easily fetch latest podcasts.
+
+Requirements:
+
+https://pypi.python.org/pypi/feedparser
